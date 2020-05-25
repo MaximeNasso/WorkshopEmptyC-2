@@ -1,0 +1,15 @@
+C:\Users\maxro\source\repos\Workshop2Empty\Workshop2Empty\bin\Debug\Workshop2Empty.exe.config
+C:\Users\maxro\source\repos\Workshop2Empty\Workshop2Empty\bin\Debug\Workshop2Empty.exe
+C:\Users\maxro\source\repos\Workshop2Empty\Workshop2Empty\bin\Debug\Workshop2Empty.pdb
+C:\Users\maxro\source\repos\Workshop2Empty\Workshop2Empty\obj\Debug\Workshop2Empty.csprojAssemblyReference.cache
+C:\Users\maxro\source\repos\Workshop2Empty\Workshop2Empty\obj\Debug\MainWindow.g.cs
+C:\Users\maxro\source\repos\Workshop2Empty\Workshop2Empty\obj\Debug\App.g.cs
+C:\Users\maxro\source\repos\Workshop2Empty\Workshop2Empty\obj\Debug\Workshop2Empty_MarkupCompile.cache
+C:\Users\maxro\source\repos\Workshop2Empty\Workshop2Empty\obj\Debug\Workshop2Empty_MarkupCompile.lref
+C:\Users\maxro\source\repos\Workshop2Empty\Workshop2Empty\obj\Debug\MainWindow.baml
+C:\Users\maxro\source\repos\Workshop2Empty\Workshop2Empty\obj\Debug\Workshop2Empty.g.resources
+C:\Users\maxro\source\repos\Workshop2Empty\Workshop2Empty\obj\Debug\Workshop2Empty.Properties.Resources.resources
+C:\Users\maxro\source\repos\Workshop2Empty\Workshop2Empty\obj\Debug\Workshop2Empty.csproj.GenerateResource.cache
+C:\Users\maxro\source\repos\Workshop2Empty\Workshop2Empty\obj\Debug\Workshop2Empty.csproj.CoreCompileInputs.cache
+C:\Users\maxro\source\repos\Workshop2Empty\Workshop2Empty\obj\Debug\Workshop2Empty.exe
+C:\Users\maxro\source\repos\Workshop2Empty\Workshop2Empty\obj\Debug\Workshop2Empty.pdb
